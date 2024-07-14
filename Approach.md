@@ -41,5 +41,4 @@ Approach to create Taxi Trips Data Explorer:
   - Finally, if the user clicks on "Execute Query" button, it call the execute_query function to run the SQL query.
   - If the query is successful and returns a result, it display the results in a dataframe.
   - If the query is susccessful but no results are found, it will show an Error or informational messages to users.
-  - 
   
